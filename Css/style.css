@@ -1,0 +1,13 @@
+.test-1 {
+    float: left;
+}
+
+.test-2 {
+    float: right;
+}
+
+.wrapper
+
+.clear {
+    clear: both; /*ზევით რომ იყოს ორივე left ან right მაშინ იმის შესაბამისს მივუთითებდით, ხოლო ასეთ სიტუაციაში გვიწევს both*/
+}
